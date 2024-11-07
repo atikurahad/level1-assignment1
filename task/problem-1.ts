@@ -9,4 +9,5 @@ function sumArray(arr: number[]): number {
     }
     return sum;
   }
+  //Smaple here
   console.log(sumArray([2,3,4,5,6]));
